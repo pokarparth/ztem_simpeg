@@ -13,6 +13,4 @@ dependencies:
   - pymatsolver
   - pydiso
   - python=3.11
-  - SimPEG =0.20.0
-  - pip:
-    - git+https://github.com/pokarparth/ztem_simpeg
+  - SimPEG=0.20.0
