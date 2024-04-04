@@ -1,0 +1,18 @@
+name: ztem_simpeg
+
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - time
+  - discretize
+  - jupyter
+  - matplotlib
+  - pip
+  - pymatsolver
+  - pydiso
+  - python=3.11
+  - SimPEG =0.20.0
+  - pip:
+    - git+https://github.com/pokarparth/ztem_simpeg
