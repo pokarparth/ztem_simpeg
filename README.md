@@ -1,4 +1,5 @@
 # ztem_simpeg
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pokarparth/ztem_simpeg/main)
 ZTEM forward modeling and inversion in SimPEG as part of UBC course EOSC 556B using synthetic and field data. 
 
 - `notebooks` contains the forward and inversion steps for synthetic are split over two jupyter notebooks. 
