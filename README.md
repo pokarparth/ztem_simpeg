@@ -8,8 +8,6 @@ ZTEM forward modeling and inversion in SimPEG as part of UBC course EOSC 556B us
 - `inv_models` folder contains the recovered models for each iteration of inversion.
 
 
-The cuurent notebooks model and invert for three frequencies (30 Hz, 45 Hz, 90 Hz) only due to computational/time constraints. 
-
 - <ztem_syn_fwd_full.ipynb> contains the forward model for a synthetic L-shaped model.
 - <ztem_syn_inv_full.ipynb> contains the inversion for the synthetic L-shaped model.
 - <ztem_true.ipynb> is currently incomplete. It will contains the inversion for field dataset.
