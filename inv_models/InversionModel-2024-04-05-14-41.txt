@@ -1,0 +1,3 @@
+  #     beta     phi_d     phi_m   phi_m_small     phi_m_smoomth_x     phi_m_smoomth_y     phi_m_smoomth_z      phi
+   1 2.8269e-04 9.9373e+02 1.5845e+06 1.4525e+06 2.9124e+04 3.1971e+04  7.0908e+04  8.6324e+03
+   2 1.4135e-04 5.3659e+02 1.3121e+06 1.0291e+06 5.4407e+04 6.0383e+04  1.6813e+05  1.4416e+03
