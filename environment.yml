@@ -5,7 +5,6 @@ channels:
 dependencies:
   - numpy
   - scipy
-  - time
   - discretize
   - jupyter
   - matplotlib
