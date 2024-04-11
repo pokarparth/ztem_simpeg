@@ -24,7 +24,7 @@ A secondary objective is for this notebook to be a starting template for running
 
 ## Installation instructions
 
-**Note**: At least 16GB of RAM is recommended for running the synthetic examples and 128 GB is recommended for running the field example notebook.
+**Note**: At least 16GB of RAM is recommended for running the synthetic examples and 128 GB RAM is recommended for running the field example notebook.
 
 To run the project, follow these installation instructions:
 
