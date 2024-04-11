@@ -7,7 +7,7 @@ The primary objective is to invert field ZTEM dataset to check capabilities of S
 
 A secondary objective is for this notebook to be a starting template for running future Natural Source EM inversions.
 
-**Note**: A HPC node is recommended before running `ztem_true_deci.ipnyb`. The field inveresion was run on a node with 128 GB RAM.
+
 ## Content 
 - `notebooks` contains the forward and inversion steps for synthetic are split over two jupyter notebooks. 
 - `data` includes the exported forward modelled data as well as the model and mesh files for the same.
@@ -24,7 +24,7 @@ A secondary objective is for this notebook to be a starting template for running
 
 ## Installation instructions
 
-**Note**: At least 16GB of RAM is recommended for running the synthetic examples and 32 GB is recommended for running the field example notebook.
+**Note**: At least 16GB of RAM is recommended for running the synthetic examples and 128 GB is recommended for running the field example notebook.
 
 To run the project, follow these installation instructions:
 
