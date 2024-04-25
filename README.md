@@ -7,11 +7,12 @@ The primary objective is to invert field ZTEM dataset to check capabilities of S
 
 A secondary objective is for this notebook to be a starting template for running future Natural Source EM inversions.
 
+
 ## Content 
 - `notebooks` contains the forward and inversion steps for synthetic are split over two jupyter notebooks. 
 - `data` includes the exported forward modelled data as well as the model and mesh files for the same.
 `field` subfolder within the `data` folder includes the field dataset as described here: https://giftoolscookbook.readthedocs.io/en/latest/content/comprehensive_workflow/joint_mt_ztem/index.html
-- `inv_models` folder contains the recovered models for each iteration of inversion.
+- `inv_models` folder contains the recovered models for each iteration of inversion. 
 
 
 - `ztem_syn_fwd_full.ipynb` contains the forward model for a synthetic L-shaped model.
@@ -23,7 +24,7 @@ A secondary objective is for this notebook to be a starting template for running
 
 ## Installation instructions
 
-**Note**: At least 16GB of RAM is recommended for running the synthetic examples and 32 GB is recommended for running the field example notebook.
+**Note**: At least 16GB of RAM is recommended for running the synthetic examples and 128 GB RAM is recommended for running the field example notebook.
 
 To run the project, follow these installation instructions:
 
